@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "statemachine_types.h": "c",
+        "statemachine.h": "c"
+    }
+}
